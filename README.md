@@ -25,7 +25,6 @@
   <li>Created the scene using prefabs from the SNAPS Prototype Pack.</li>
   <li>Set up VR interactions by creating the XR origin.</li>
   <li>Implemented Raycast interactions with the controllers.</li>
-  <li>Defined interactors and interactables for seamless interactions.</li>
   <li>Created teleportation areas using a locomotion system for easy navigation with the left hand.</li>
   <li>Ensured alignment of walls, floors and environment by utilizing Progrids.</li>
   <li>Enabled snap turns using the controllers for both hands.</li>
