@@ -34,4 +34,6 @@
   <li>Implemented a grab interaction for the right hand using XR Direct Interaction to pick up the key.</li>
 </ul>
 
+# Issues: 
+When I initially began the project, I utilized my MacBook for developing the environment. However, I encountered several issues along the way, prompting me to switch to my laptop after three days. The transition involved resolving compatibility concerns and transferring my work. Additionally, I encountered challenges in configuring proper interactions for each hand, resulting in a few restarts. This experience taught me the importance of working with a task list. I realized that having a written record of items to accomplish greatly facilitated tracking progress and staying organized throughout the project.
 
